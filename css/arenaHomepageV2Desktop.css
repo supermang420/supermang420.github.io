@@ -1,0 +1,3044 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,300,500,900');
+
+@font-face {
+                          font-family: "Radikal";
+                          src: url('../fonts/Radikal.otf') format("opentype");
+                        }
+                        
+.arenahomepagev2desktop {
+  width               : 100%;
+  min-width           : 1600px;
+  height              : 100vh;
+  min-height          : 6305px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.arenahomepagev2desktop .footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6205px;
+  height              : 100px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .rectangle {
+  background-color    : rgba(20, 20, 20, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  box-sizing          : border-box;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .arenapayfoundation251 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 156px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.arenahomepagev2desktop .footer .tw {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 42px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1317px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .tw .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .tw .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .fb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 42px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .fb .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .fb .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .m {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 42px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1411px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .m .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .m .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .t {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 42px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1458px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .t .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .footer .t .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 4716px;
+  height              : 1490px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .bg .mask {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1489px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .bg .christianpernerukliuv8raksunsplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2011px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.2;
+}
+.arenahomepagev2desktop .advisorsandinvesto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5348px;
+  height              : 707px;
+  width               : 1071px;
+  position            : absolute;
+  margin              : 0;
+  left                : 265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 103px;
+  height              : 277px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a1 .adamdavidson {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .advisorsandinvesto .a1 .bitmap {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a1 .bitmap .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a1 .bitmap .adamdavidson1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 564px;
+  width               : 452px;
+  position            : absolute;
+  margin              : 0;
+  left                : -84px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 103px;
+  height              : 277px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a2 .danielcarter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .advisorsandinvesto .a2 .bitmap {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a2 .bitmap .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a2 .bitmap .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -104px;
+  height              : 438px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : -50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a2 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 588px;
+  width               : 470px;
+  position            : absolute;
+  margin              : 0;
+  left                : -111px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 103px;
+  height              : 277px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 563px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a3 .christopherbrown {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .advisorsandinvesto .a3 .bitmap {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a3 .bitmap .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a3 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -104px;
+  height              : 438px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : -50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a3 .bitmap .christopherbrown1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 103px;
+  height              : 277px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 842px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a4 .elijahjohnson {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .advisorsandinvesto .a4 .bitmap {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a4 .bitmap .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a4 .bitmap .elijahjohnson1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -25px;
+  height              : 438px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : -76px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 430px;
+  height              : 277px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a5 .marksmith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .advisorsandinvesto .a5 .bitmap {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a5 .bitmap .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a5 .bitmap .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -104px;
+  height              : 438px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : -50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a5 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 234px;
+  width               : 234px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 430px;
+  height              : 277px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a6 .michaeljames {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .advisorsandinvesto .a6 .bitmap {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a6 .bitmap .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a6 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 331px;
+  width               : 265px;
+  position            : absolute;
+  margin              : 0;
+  left                : -6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 430px;
+  height              : 277px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 563px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a7 .richardstevenson {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .advisorsandinvesto .a7 .bitmap {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a7 .bitmap .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a7 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 351px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : -28px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 430px;
+  height              : 277px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 842px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a8 .robertjohnson {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .advisorsandinvesto .a8 .bitmap {
+  background-color    : rgba(232, 232, 232, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a8 .bitmap .mask {
+  background-color    : rgba(232, 232, 232, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .a8 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 259px;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .advisorsandinvesto .advisorsandinvesto1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .team {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4866px;
+  height              : 412px;
+  width               : 508px;
+  position            : absolute;
+  margin              : 0;
+  left                : 546px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .team1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 179px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .team .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 103px;
+  height              : 309px;
+  width               : 508px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .group11 .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 309px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .group11 .a1 .thomascroland {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .team .group11 .a1 .ceo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 287px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .team .group11 .a1 .bitmap {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .group11 .a1 .bitmap .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .group11 .a1 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -104px;
+  height              : 438px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : -50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .group11 .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 309px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 279px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .group11 .a2 .williamrittmeyer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .team .group11 .a2 .cto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 287px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .team .group11 .a2 .bitmap {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .group11 .a2 .bitmap .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 229px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .group11 .a2 .bitmap .willr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 931px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : -133px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .team .group11 .a2 .bitmap .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -7px;
+  height              : 21px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : -133px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .newsletter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4216px;
+  height              : 500px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .newsletter .bg1 {
+  background-color    : rgba(20, 20, 20, 1.0);
+  top                 : 0px;
+  height              : 500px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .newsletter .bg1 .mask {
+  background-color    : rgba(20, 20, 20, 1.0);
+  top                 : 0px;
+  height              : 500px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .newsletter .bg1 .wallpaperflarecomwallpaper2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -266px;
+  height              : 900px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .newsletter .content {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 200px;
+  width               : 608px;
+  position            : absolute;
+  margin              : 0;
+  left                : 513px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .newsletter .content .newsletter1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .newsletter .content .stayintouchsign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : auto;
+  width               : 575px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(250, 249, 254, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.arenahomepagev2desktop .newsletter .content .but {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 70px;
+  width               : 600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .newsletter .content .but .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 70px;
+  width               : 600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .newsletter .content .but .enteremailaddressu2026 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(153, 153, 153, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .newsletter .content .but .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 70px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 459px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .newsletter .content .but .signup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 498px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .esportsbook {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3423px;
+  height              : 793px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .bg1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 793px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .bg1 .group3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 793px;
+  width               : 1600px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .bg1 .group3 .mask {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 793px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .bg1 .group3 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -70px;
+  height              : 1050px;
+  width               : 1680px;
+  position            : absolute;
+  margin              : 0;
+  left                : -80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 348px;
+  height              : 302px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 84px;
+  height              : 160px;
+  width               : 548px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block .a1 .icons02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block .a1 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 1px;
+  width               : 548px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block .a1 .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 159px;
+  height              : 1px;
+  width               : 548px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block .deathmatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 185px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .esportsbook .a3block .label1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 185px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 535px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .esportsbook .a3block .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 216px;
+  height              : 60px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 439px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block .a2 .hospital {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 58px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 274px;
+  height              : 28px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block .a3 .tournaments {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 387px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .esportsbook .a3block .a3 .label11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 535px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .esportsbook .a3block .a11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 104px;
+  width               : 547px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .a3block .a11 .playerversusplayer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .esportsbook .a3block .a11 .wageringondeathmat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : auto;
+  width               : 478px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .esportsbook .a3block .a11 .image1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 535px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .esportsbook .thearenabettokeni {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 232px;
+  height              : auto;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .esportsbook .esportsbook1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 140px;
+  height              : auto;
+  width               : 763px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 70.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 82.0px;
+}
+.arenahomepagev2desktop .features {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2699px;
+  height              : 724px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .features .bg1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 724px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .features .arenapayprovidesa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 221px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 800px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .features .features1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 800px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .features .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 301px;
+  height              : 71px;
+  width               : 265px;
+  position            : absolute;
+  margin              : 0;
+  left                : 800px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .features .a1 .a11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(236, 32, 36, 1.0);
+  text-align          : center;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .features .a1 .transparencyandtru {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(134, 134, 134, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.arenahomepagev2desktop .features .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 300px;
+  height              : 71px;
+  width               : 251px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1116px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .features .a2 .a21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(236, 32, 36, 1.0);
+  text-align          : center;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .features .a2 .ultrafasttransactio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 204px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(134, 134, 134, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.arenahomepagev2desktop .features .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 402px;
+  height              : 71px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 801px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .features .a3 .a31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(236, 32, 36, 1.0);
+  text-align          : center;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .features .a3 .miningopportunities {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(134, 134, 134, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.arenahomepagev2desktop .features .a4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 401px;
+  height              : 71px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1116px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .features .a4 .a41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(236, 32, 36, 1.0);
+  text-align          : center;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .features .a4 .transactionssecurit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(134, 134, 134, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.arenahomepagev2desktop .features .a5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 503px;
+  height              : 71px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 801px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .features .a5 .a51 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(236, 32, 36, 1.0);
+  text-align          : center;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .features .a5 .arenaplayensuresac {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 227px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(134, 134, 134, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.arenahomepagev2desktop .grothontheplatform {
+  background-color    : rgba(20, 20, 20, 1.0);
+  top                 : 1593px;
+  height              : 1106px;
+  width               : 1602px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .mask {
+  background-color    : rgba(20, 20, 20, 1.0);
+  top                 : 0px;
+  height              : 1106px;
+  width               : 1601px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .bg1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -24px;
+  height              : 1318px;
+  width               : 1782px;
+  position            : absolute;
+  margin              : 0;
+  left                : -104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .bg1 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1318px;
+  width               : 1580px;
+  position            : absolute;
+  margin              : 0;
+  left                : 179px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .bg1 .group3 .group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1318px;
+  width               : 1580px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .bg1 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 228px;
+  height              : 997px;
+  width               : 1782px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 440px;
+  height              : 517px;
+  width               : 661px;
+  position            : absolute;
+  margin              : 0;
+  left                : 470px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 243px;
+  width               : 316px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a1 .rectangle {
+  background-color    : rgba(0, 0, 0, 0.7);
+  top                 : 0px;
+  height              : 243px;
+  box-sizing          : border-box;
+  width               : 316px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(163, 13, 11, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a1 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : 42px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a1 .tournament {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a1 .skilledplayerswill {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 149px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 243px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 346px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a2 .rectangle {
+  background-color    : rgba(163, 13, 11, 1.0);
+  top                 : 0px;
+  height              : 243px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a2 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 48px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  -ms-transform       : rotate(-90deg); /* IE 9 */
+  -webkit-transform   : rotate(-90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-90deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a2 .hospital {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : 60px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a2 .accumulation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a2 .arenaplayrunsoffa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 149px;
+  height              : auto;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 273px;
+  height              : 243px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a3 .rectangle {
+  background-color    : rgba(163, 13, 11, 1.0);
+  top                 : 0px;
+  height              : 243px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a3 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a3 .fees {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : 215px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a3 .sometransactionfee {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 149px;
+  height              : auto;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 272px;
+  height              : 245px;
+  width               : 316px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a4 .rectangle {
+  background-color    : rgba(163, 13, 11, 1.0);
+  top                 : 0px;
+  height              : 245px;
+  box-sizing          : border-box;
+  width               : 316px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(163, 13, 11, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a4 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 40px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a4 .validation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 111px;
+  height              : auto;
+  width               : 215px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .grothontheplatform .a4boxs .a4 .muchofthegrowthi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.arenahomepagev2desktop .grothontheplatform .growthontheplatfo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 154px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 471px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .grothontheplatform .witharenaplaywei {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 324px;
+  height              : auto;
+  width               : 440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 471px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(133, 133, 133, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .howwedoit {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 798px;
+  height              : 795px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .mask {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 795px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -134px;
+  height              : 1005px;
+  width               : 1108px;
+  position            : absolute;
+  margin              : 0;
+  left                : -554px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .a3boxes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 490px;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 950px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 494px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a1 .a11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 494px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a1 .a11 .erc20token {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a1 .a11 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 60px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a1 .a11 .arenaplayisanerc2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : 420px;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 146px;
+  height              : 1px;
+  box-sizing          : border-box;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(0, 0, 0, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.11;
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 363px;
+  height              : 1px;
+  box-sizing          : border-box;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(0, 0, 0, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.11;
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 197px;
+  height              : 116px;
+  width               : 489px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a2 .tokenrewards {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a2 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a2 .skilledplayerswill {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 414px;
+  height              : 76px;
+  width               : 494px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a3 .massivetokenwinnin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : 420px;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a3 .speedyandanonymity {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.arenahomepagev2desktop .howwedoit .a3boxes .a3 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .howwedoit .howwedoit1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 356px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(20, 20, 20, 1.0);
+  text-align          : left;
+  line-height         : 71.0px;
+}
+.arenahomepagev2desktop .howwedoit .weaimtomakegamin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 241px;
+  height              : auto;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 356px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .toppart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 800px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .banner {
+  background-color    : rgba(38, 38, 38, 1.0);
+  top                 : 0px;
+  height              : 800px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .banner .mask {
+  background-color    : rgba(38, 38, 38, 1.0);
+  top                 : 0px;
+  height              : 800px;
+  width               : 1600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .banner .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -263px;
+  height              : 1063px;
+  width               : 1599px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .bannercontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 258px;
+  height              : 285px;
+  width               : 512px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .bannercontent .button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 216px;
+  height              : 69px;
+  width               : 366px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .bannercontent .button .rectangle {
+  background-color    : rgba(163, 13, 11, 1.0);
+  top                 : 0px;
+  height              : 69px;
+  width               : 366px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 34px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .bannercontent .button .downloadourwhitepa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.arenahomepagev2desktop .toppart .bannercontent .whoweare {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 80.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 94.0px;
+}
+.arenahomepagev2desktop .toppart .bannercontent .arenaplayisablock {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : auto;
+  width               : 512px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Radikal", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(165, 165, 165, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.arenahomepagev2desktop .toppart .logomenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 51px;
+  width               : 1400px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .logomenu .group276 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .logomenu .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 21px;
+  width               : 561px;
+  position            : absolute;
+  margin              : 0;
+  left                : 839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .logomenu .group8 .platformwhoweare {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  line-height         : 16.0px;
+}
+.arenahomepagev2desktop .toppart .logomenu .group8 .platformwhoweare .span1 {
+  
+}
+.arenahomepagev2desktop .toppart .logomenu .group8 .platformwhoweare .span2 {
+  color               : rgba(172, 172, 172, 1.0);
+}
+.arenahomepagev2desktop .toppart .logomenu .group8 .en {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 513px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.arenahomepagev2desktop .toppart .logomenu .group8 .ch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 539px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  line-height         : 16.0px;
+}
+.arenahomepagev2desktop .toppart .logomenu .group8 .rectangle {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 20px;
+  height              : 1px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.arenahomepagev2desktop .toppart .logomenu .group8 .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 2px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 514px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
